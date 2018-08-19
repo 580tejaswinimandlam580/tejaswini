@@ -1,0 +1,61 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"tejaswini",
+		"phoneno":"9912829734",
+		"email":"tejaswinimandlam@gmail.com",
+		"address":"vignan's nirula"
+	},
+	"career":{
+		"info":"By beginning yiring manager's attention. Broadly, a career objective is a short summary telling a hiring manager that you have the relevant skills, abilities and experience to help the company achieve its goals."
+	     },
+
+	     "educationalqualification":[
+	     	{
+	     		"qualification":"btech",
+	     		"institute":"vignan",
+	     		"year":"2016-2020",
+	     		"percentage":"98%"
+	     	    
+	     	},
+	           
+	     	{
+	           "qualification":"inter",
+	     		"institute":"srichaitanya",
+	     		"year":"2014-2016",
+	     		"percentage":"99%"
+	         },
+	         {
+	            "qualification":"cbse",
+	     		"institute":"durga public school",
+	     		"year":"2013-2014",
+	     		"percentage":"96%"
+
+	     	}
+	     	
+],
+"skills":[{
+"title":"programming languages",
+"info":["c","oops","java"]
+},
+{
+
+"title":"databasses",
+"info":["sql","mysql"]
+},	
+{
+"title":"operating systems",
+"info":["linux","mac os"]
+	
+
+}],
+"acheivements":[
+{
+		"title":"got certified in IOT"
+
+},
+{
+	"title":"got certified in throwball"
+
+}]
+}
